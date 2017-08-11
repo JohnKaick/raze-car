@@ -1,0 +1,25 @@
+{
+  "name": "raze-car",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnKaick/raze-car.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnKaick/raze-car/issues"
+  },
+  "homepage": "https://github.com/JohnKaick/raze-car#readme",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "hapi": "^16.5.2",
+    "inert": "^4.2.1"
+  }
+}
