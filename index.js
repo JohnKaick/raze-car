@@ -20,6 +20,9 @@ server.register(
                     redirectToSlash: true,
                     index: true
                 }
+            },
+            config: {
+                auth: false
             }
         })
 
