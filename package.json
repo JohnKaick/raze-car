@@ -18,8 +18,11 @@
   },
   "homepage": "https://github.com/JohnKaick/raze-car#readme",
   "dependencies": {
-    "grunt": "^1.0.1",
     "hapi": "^16.5.2",
     "inert": "^4.2.1"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-html-build": "^0.7.1"
   }
 }
